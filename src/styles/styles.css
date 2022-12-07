@@ -1,0 +1,19 @@
+.container{
+    text-align: center;
+    text-decoration: none;
+    text-decoration-style: none;
+    list-style: none;
+    background-image: url(https://bumshop.com.vn/wp-content/uploads/2018/10/shop-quan-ao-tphcm-facebook-min.jpg);
+    background-size: contain;
+    color: black;
+}
+
+.list{
+    color: black;
+    text-decoration: none;
+    text-decoration-style: none;
+    list-style: none;
+    font-weight: bold;
+}
+li a{color:white} 
+
